@@ -9,11 +9,7 @@ misketler ve arena çizimleri GIMP açık kaynaklı yazılımı ile yapılmışt
 * iki kişiyle oynanabilir bir oyun olması(iki kişiyle oynanabilir ancak aynı anda iki oyuncu kontrol sağlayamıyor spamlayan kişi daha fazla hareket yapabilir)
 
 ## Oynanış
-
-
-![misket1](/images/misket11.png)
-Format:![Alt Text](https://github.com/OsmanTahirKuzu/marbleWrestling/blob/main/images/misket11.png)
+![misket1](https://github.com/OsmanTahirKuzu/marbleWrestling/blob/main/images/misket11.png)
 yukarı, sol, aşağı, sağ yönlerindeki ok ile yönlendirilir.
-![misket2](/images/misket22.png)
-Format:![Alt Text](https://github.com/OsmanTahirKuzu/marbleWrestling/blob/main/images/misket22.png)
+![misket2](https://github.com/OsmanTahirKuzu/marbleWrestling/blob/main/images/misket22.png)
 W, A, S, D ile yönlendirilir.
