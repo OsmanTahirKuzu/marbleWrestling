@@ -10,8 +10,8 @@ misketler ve arena çizimleri GIMP açık kaynaklı yazılımı ile yapılmışt
 
 ## Oynanış
 ! [Oyuncu 1](/images/misket11.png)
-Format: ![Alt Text](https://github.com/OsmanTahirKuzu/marbleWrestling)
+Format: ![Alt Text](https://github.com/OsmanTahirKuzu/marbleWrestling/blob/main/images/misket11.png)
 W, A, S, D ile yönlendirilir.
 ! [Oyuncu 2](/images/misket22.png)
-Format: ![Alt Text](https://github.com/OsmanTahirKuzu/marbleWrestling)
+Format: ![Alt Text](https://github.com/OsmanTahirKuzu/marbleWrestling/blob/main/images/misket22.png)
 yukarı, sol, aşağı, sağ ok tuşları ile yönlendirilir.
